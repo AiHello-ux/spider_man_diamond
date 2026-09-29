@@ -1,5 +1,5 @@
 import os
-#123
+
 while True:
     print("\n--- MAIN MENU ---")
     print("1. Gokul-heart")
